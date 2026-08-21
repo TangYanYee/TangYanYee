@@ -17,7 +17,7 @@ I love building, learning, and sharing cool ideas through code.
 ## 📫 Connect With Me
 
 - GitHub: [@TangYanYee](https://github.com/TangYanYee)
-- Email: _your-email@example.com_
+- Message me on GitHub for collaboration opportunities
 
 ---
 
