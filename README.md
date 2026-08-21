@@ -6,16 +6,17 @@ Why are u here looking at my GitHub ✨ Anyways, Welcome.
 2. Do coding with hand (only applicable to embedded systems/robotics related). I cannot hand do frontend/backend for website.
 3. Flexible skill set. Learn whatever I am doing. Can adapt to do any type of work.
 4. Code outside the box. Unsual problem solving skills. Never can expect what method Amber will use to solve problems.
-5. Able to work with files with 10k line of code per file.
+5. Softskills is very good, but i also still learning how to be a top sales. A techinical sales that is trust-worthy but not over promising.
 # My ABSOLUTE DISADVANTAGES
 1. PID 7ed, cannot walk normal. BUT i can tune robot PID well but cannot tune myself.
 2. Too many on9 languages. Idk how i become this.
 3. Code stuture is never good, never follow naming system.(but better now if use AI)
 4. Too responsible and too chur if I serious. I usually not serious no worries.
+5. My skillset is really wide but i don't think i am very deep at each field.
 ## 🌟 About Me
 
-- 💻 I don't know what is my tech track.
-- 🌱 Currently learning new tools and technologies
+- 💻 TBH I don't know what is my tech track.
+- 🌱 Currently learning new tools and technologies, learning curve always steep.
 - 🤝 Handshaking is important for data transfer. Also for human, but not during COVID-19
 - ⚡ Fun fact: I am ECE student from HKUST, but i am proficient in Solidwork design and software development.
 - I know how to do robot, product design, now know little about website development and MANY MORE stuff.
