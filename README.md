@@ -9,11 +9,11 @@ Why are u here looking at my GitHub ✨ Anyways, Welcome.
 - 🤝 Handshaking is important for data transfer. Also for human, but not during COVID-19
 - ⚡ Fun fact: I am ECE student from HKUST, but i am proficient in Solidwork design and software development.
 - I know how to do robot, product design, now know little about website development and MANY MORE stuff.
-- I regret that I didn't change my name from Amber. I got huge PTSD when I hear Amber. But is OK. Amber will assist you as much as she can.
+- I regret that I didn't change my name from Amber. I got huge PTSD when I hear Amber. But is OK. Amber will assist you as much as she can. No worries, she is still fine.
 
 ## 🧰 Tech Stack
 
-`C` · `C++/C#` ·  `Python` · `JavaScript` · `HTML` · `CSS` · `Altium/KiCad/LCEDA` · `ROS` · `RTOS` · `SolidWorks/Fusion360` · `OpenCV`
+`C` · `C++/C#` ·  `Python` · `JavaScript` · `HTML` · `CSS` · `Altium/KiCad/LCEDA` · `ROS` · `RTOS` · `SolidWorks/Fusion360` · `OpenCV` · `STM32` · `STC8` · `ESP32/Arduino`
 ## 📫 Connect With Me
 
 - Please don't. Thanks. Unless you need a hardworking employee: yytangad@connect.ust.hk
