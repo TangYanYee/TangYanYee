@@ -1,7 +1,17 @@
 # 👋 Hi, I'm Amber aka Amber
 
 Why are u here looking at my GitHub ✨ Anyways, Welcome.  
-
+# My ABSOLUTE ADVANTAGES
+1. Can guess the bug without debug. Initial 3 guess of where the bug is, sort with confidence. Then DONE.(In embedded system only)
+2. Do coding with hand (only applicable to embedded systems/robotics related). I cannot hand do frontend/backend for website.
+3. Flexible skill set. Learn whatever I am doing. Can adapt to do any type of work.
+4. Code outside the box. Unsual problem solving skills. Never can expect what method Amber will use to solve problems.
+5. Able to work with files with 10k line of code per file.
+# My ABSOLUTE DISADVANTAGES
+1. PID 7ed, cannot walk normal. BUT i can tune robot PID well but cannot tune myself.
+2. Too many on9 languages. Idk how i become this.
+3. Code stuture is never good, never follow naming system.(but better now if use AI)
+4. Too responsible and too chur if I serious. I usually not serious no worries.
 ## 🌟 About Me
 
 - 💻 I don't know what is my tech track.
