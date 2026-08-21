@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Tang Yan Yee
 
-<!--
-**TangYanYee/TangYanYee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my little corner of GitHub ✨  
+I love building, learning, and sharing cool ideas through code.
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I enjoy creating clean and useful projects
+- 🌱 Currently learning new tools and technologies
+- 🤝 Open to collaboration and fun side projects
+- ⚡ Fun fact: I love turning ideas into reality
+
+## 🧰 Tech Stack
+
+`Python` · `JavaScript` · `HTML` · `CSS` · `Git` · `GitHub`
+
+## 📫 Connect With Me
+
+- GitHub: [@TangYanYee](https://github.com/TangYanYee)
+- Email: _your-email@example.com_
+
+---
+
+> “Keep learning, keep building, keep smiling.” 😄
