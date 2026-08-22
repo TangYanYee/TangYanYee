@@ -23,7 +23,7 @@ Why are u here looking at my GitHub ✨ Anyways, Welcome.
 - I regret that I didn't change my name from Amber. I got huge PTSD when I hear Amber. But is OK. Amber will assist you as much as she can. No worries, she is still fine.
 
 ## 🧰 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=arduino,autocad,blender,c,cs,cpp,clion,cmake,css,docker,dotnet,dynamodb,eclipse,electron,figma,github,go,html,java,nodejs,linux,lua,mongodb,mysql,nextjs,opencv,pr,raspberrypi,react,ros,seleniumsketchup,threejs,ubuntu,vite,vue&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,autocad,blender,c,cs,cpp,clion,cmake,css,docker,dotnet,dynamodb,eclipse,electron,figma,github,go,html,java,nodejs,linux,lua,mongodb,mysql,nextjs,opencv,pr,raspberrypi,react,ros,selenium,sketchup,threejs,ubuntu,vite,vue&theme=light)](https://skillicons.dev)
 ## 📫 Connect With Me
 
 - Please don't. Thanks. Unless you need a hardworking employee: yytangad@connect.ust.hk
