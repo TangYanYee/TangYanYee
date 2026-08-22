@@ -23,8 +23,7 @@ Why are u here looking at my GitHub ✨ Anyways, Welcome.
 - I regret that I didn't change my name from Amber. I got huge PTSD when I hear Amber. But is OK. Amber will assist you as much as she can. No worries, she is still fine.
 
 ## 🧰 Tech Stack
-
-`C` · `C++/C#` ·  `Python` · `JavaScript` · `HTML` · `CSS` · `Altium/KiCad/LCEDA` · `ROS` · `RTOS` · `SolidWorks/Fusion360` · `OpenCV` · `STM32` · `STC8` · `ESP32/Arduino`
+[![My Skills](https://skillicons.dev/icons?i=java,C,nodejs,figma,C#&theme=light)](https://skillicons.dev)
 ## 📫 Connect With Me
 
 - Please don't. Thanks. Unless you need a hardworking employee: yytangad@connect.ust.hk
