@@ -2,7 +2,29 @@
 
 Why are u here looking at my GitHub ✨ Anyways, Welcome.  
 
- ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=TangYanYee&langs_count=5)
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=TangYanYee&theme=dark&show_icons=true&count_private=true" />
+  <br></br> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TangYanYee&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+
+
+
+</p>    
 
 # My ABSOLUTE ADVANTAGES
 1. Can guess the bug without debug. Initial 3 guess of where the bug is, sort with confidence. Then DONE.(In embedded system only)
