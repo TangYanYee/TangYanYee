@@ -10,6 +10,8 @@ Why are u here looking at my GitHub ✨ Anyways, Welcome.
   
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TangYanYee&theme=dark&hide_border=false" /> 
+  
+   <img src= "https://github-stats-extended.vercel.app/api/wakatime?username=TangYanYee&langs_count=6"/>
 </td>
 
 <td width="50%" align="center">
