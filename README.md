@@ -3,10 +3,6 @@
 Why are u here looking at my GitHub ✨ Anyways, Welcome.  
 
  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=TangYanYee&langs_count=5)
- 
-![](https://github-readme-stats.vercel.app/api?username=TangYanYee&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TangYanYee&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TangYanYee&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # My ABSOLUTE ADVANTAGES
 1. Can guess the bug without debug. Initial 3 guess of where the bug is, sort with confidence. Then DONE.(In embedded system only)
