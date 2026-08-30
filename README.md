@@ -1,6 +1,12 @@
 # 👋 Hi, I'm Amber aka Amber
 
 Why are u here looking at my GitHub ✨ Anyways, Welcome.  
+<!-- 基础状态卡片 -->
+[![你的 GitHub 状态](https://vercel.app)](https://github.com/TangYanYee/github-readme-stats)
+
+<!-- 常用语言占比卡片 -->
+[![常用语言](https://vercel.app)](https://github.com/TangYanYee/github-readme-stats)
+
 # My ABSOLUTE ADVANTAGES
 1. Can guess the bug without debug. Initial 3 guess of where the bug is, sort with confidence. Then DONE.(In embedded system only)
 2. Do coding with hand (only applicable to embedded systems/robotics related). I cannot hand do frontend/backend for website.
