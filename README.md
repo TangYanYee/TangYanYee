@@ -2,9 +2,9 @@
 
 Why are u here looking at my GitHub ✨ Anyways, Welcome.  
 
-<p align="center">
+<p>
   <!--- stats (start) -->
-<table align="center">
+<table>
 <tr border="none">
 <td width="50%" align="center">
   
