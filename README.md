@@ -2,7 +2,7 @@
 
 Why are u here looking at my GitHub ✨ Anyways, Welcome.  
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=TangYanYee)](https://github.com/stats-organization/github-stats-extended)
+ ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=TangYanYee&langs_count=5)
 
 # My ABSOLUTE ADVANTAGES
 1. Can guess the bug without debug. Initial 3 guess of where the bug is, sort with confidence. Then DONE.(In embedded system only)
