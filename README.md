@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amber aka Amber
+# 👋 Hi, I'm Amber aka Ancient Artifact
 
 Why are u here looking at my GitHub ✨ Anyways, Welcome.  
 
@@ -43,10 +43,11 @@ Why are u here looking at my GitHub ✨ Anyways, Welcome.
 
 - 💻 TBH I don't know what is my tech track.
 - 🌱 Currently learning new tools and technologies, learning curve always steep.
-- 🤝 Handshaking is important for data transfer. Also for human, but not during COVID-19
+- 🤝 Handshaking is important for data transfer. Also for human, but not during COVID-19.
 - ⚡ Fun fact: I am ECE student from HKUST, but i am proficient in Solidwork design and software development.
 - I know how to do robot, product design, now know little about website development and MANY MORE stuff.
 - I regret that I didn't change my name from Amber. I got huge PTSD when I hear Amber. But is OK. Amber will assist you as much as she can. No worries, she is still fine.
+- Amber is too old, she still use hand to coding, what a old people.
 
 ## 🧰 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=arduino,autocad,blender,c,cs,cpp,clion,cmake,css,docker,dotnet,dynamodb,eclipse,electron,figma,github,go,html,java,nodejs,linux,lua,mongodb,mysql,nextjs,opencv,pr,raspberrypi,react,ros,selenium,sketchup,threejs,ubuntu,vite,vue&theme=light)](https://skillicons.dev)
